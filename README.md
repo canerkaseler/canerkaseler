@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning latest technologies and approaches for Android Development.
 - 📝 I'm writing Medium articles for my Git repos to support community.
 - 🤝 I’m looking to collaborate on Android or KMM projects.
-- ✉️ You can reach me on email: canerkaseler@gmail.com
+- ✉️ You can reach me on email: canerkaseler@outlook.com
 - 📫 Quick "_Hi_" on Twitter or LinkedIn: _@canerkaseler_
 
 <!---
