@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning latest technologies and approaches for Android Development.
 - 📝 I'm writing Medium articles for my Git repos to support community.
 - 🤝 I’m looking to collaborate on Android or KMM projects.
-- ✉️ You can reach me on email: canerkaseler@outlook.com
-- 📫 Quick "_Hi_" on Twitter or LinkedIn: _@canerkaseler_
+- 📫 You can reach me on [linktr.ee/canerkaseler](https://linktr.ee/canerkaseler)
+
+<a href="https://www.buymeacoffee.com/canerkaseler" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!---
 canerkaseler/canerkaseler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
