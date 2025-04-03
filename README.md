@@ -1,4 +1,4 @@
-- 👋 Hi, I interest in Modern Android Development skills and Kotlin Multiplatform with CMP.
+- 👋 Hi, I am interested in Modern Android Development skills and Kotlin Multiplatform with CMP.
 - 👀 Follow latest technologies and approaches for Android and Kotlin Multiplatform Development.
 - ⌨️ Write Medium articles with GitHub repositories to support community.
 - 🚀 Share posts and digital products on my social media accounts: [@canerkaseler](https://linktr.ee/canerkaseler)
