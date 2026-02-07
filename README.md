@@ -1,4 +1,4 @@
-👋 Hi, I'm Caner — a Kotlin Multiplatform Developer and share open-source work under watermelonKode 🍉
+👋 Hi, I'm Caner — a Kotlin Multiplatform Developer and share open-source work under [watermelonKode](https://github.com/watermelonKode) 🍉
 📱 Focus: Modern Android Development & Kotlin Multiplatform (KMP / Compose Multiplatform)
 🧩 Projects & experiments on GitHub
 ✍️ Writing on Medium to document what I build and learn
